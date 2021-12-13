@@ -8,12 +8,12 @@ global.APIs = {
   amel: 'https://melcanz.com',
 }
 global.APIKeys = {
-  'https://melcanz.net': 'apikeymu',
+  'https://melcanz.net': 'gqZyhhs7',
 }
 
-global.packname = 'ig @ariffb.id @melcanz.io'
-global.author = '© ariffb & melcanz'
-global.wm = '© ariffb & melcanz'
+global.packname = 'ig Zeey'
+global.author = '© Zeey'
+global.wm = '© Zeey'
 global.eror = '*Error*'
 global.wait = '*tunggu..*'
 global.benar = '✅'

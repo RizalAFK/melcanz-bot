@@ -1,9 +1,17 @@
 let handler  = async (m, { conn, args }) => {
-   m.reply(`Bot Ini Menggunakan Script : https://github.com/melcanz/melcanz-bot`)
+   m.reply(`Bot ini di buat dengan bahasa pemrograman Node.js / JavaScript
+
+Apabila terjadi error, kalian bisa menghubungi owner bot ketik !owner
+
+Jika kalian ingin berdiskusi tentang bot silahkan kunjungi
+https://chat.whatsapp.com/BEL8HA90i86KhKcX0gPpFS
+
+Terima kasih.
+`)
 }
  
-handler.help = ['sc']
+handler.help = ['info']
 handler.tags = ['info']
-handler.command = /^(sc)$/i
+handler.command = /^(info)$/i
 
 module.exports = handler

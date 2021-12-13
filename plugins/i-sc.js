@@ -10,8 +10,8 @@ Terima kasih.
 `)
 }
  
-handler.help = ['info']
+handler.help = ['sc']
 handler.tags = ['info']
-handler.command = /^(info)$/i
+handler.command = /^(sc)$/i
 
 module.exports = handler

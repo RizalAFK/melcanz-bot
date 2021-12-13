@@ -1,7 +1,7 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.owner = ['6283128734012', '6287755080455']
+global.owner = ['62895395165760']
 global.mods = []
 
 global.APIs = {

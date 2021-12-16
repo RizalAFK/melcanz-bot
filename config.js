@@ -8,7 +8,7 @@ global.APIs = {
   amel: 'https://melcanz.com',
 }
 global.APIKeys = {
-  'https://melcanz.net': 'vQHNnd',
+  'https://melcanz.net': 'gqZyhhs7',
 }
 
 global.packname = 'ig Zeey'

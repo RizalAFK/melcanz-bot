@@ -3,7 +3,7 @@ let handler = async (m, { conn }) => {
     pepe = 'https://telegra.ph/file/0dfb35a7c7d0ada2e75d1.jpg'
     baper = await fetch(pepe).then(a => a.buffer())
     let listMessage = {
-        "title": "melcanz-bot",
+        "title": "LartypsBotz",
         "description": `
 *LartypsBotz*
         
@@ -26,11 +26,11 @@ tertarik? hubungi:
             ],
             "headerImage": {
                 "productId": "46969566403153224",
-                "jpegThumbnail": baper
+                "jpegThumbnail": cie
             },
             "businessOwnerJid": "62895395165760@s.whatsapp.net"
         },
-        "footerText": "wa.me/62895395165760\nwa.me/62895395165760"
+        "footerText": "wa.me/62895395165760"
     }
     conn.sendMessage(m.chat, listMessage, 'listMessage', { quoted: m, contextInfo: { mentionedJid: conn.parseMention(listMessage.description) } })
 }

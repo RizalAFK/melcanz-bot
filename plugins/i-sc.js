@@ -10,7 +10,7 @@ Terima kasih.
 `)
 }
  
-handler.help = ['info']
+handler.help = ['sc']
 handler.tags = ['info']
 handler.command = /^(sc)$/i
 

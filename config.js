@@ -5,7 +5,7 @@ global.owner = ['62895395165760']
 global.mods = ['6281334813599']
 
 global.APIs = {
-  amel: 'https://melcanz.com',
+  amel: 'https://melcanz.net',
 }
 global.APIKeys = {
   'https://melcanz.net': 'gqZyhhs7',

@@ -1,6 +1,6 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn }) => {
-    pepe = 'https://telegra.ph/file/0dfb35a7c7d0ada2e75d1.jpg'
+    pepe = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPt_K-31G107KPdTY6XztDUkO4am1QRra8oQ&usqp=CAU'
     baper = await fetch(pepe).then(a => a.buffer())
     let listMessage = {
         "title": "LartypsBotz",

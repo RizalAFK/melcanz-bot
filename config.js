@@ -11,7 +11,7 @@ global.APIKeys = {
   'https://melcanz.net': 'gqZyhhs7',
 }
 
-global.packname = 'ig Zeey'
+global.packname = 'ig zeey_tod'
 global.author = '© Zeey'
 global.wm = '© Zeey'
 global.eror = '*Error*'

@@ -26,7 +26,7 @@ tertarik? hubungi:
             ],
             "headerImage": {
                 "productId": "46969566403153224",
-                "jpegThumbnail": cie
+                "jpegThumbnail": baper
             },
             "businessOwnerJid": "62895395165760@s.whatsapp.net"
         },

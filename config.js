@@ -2,13 +2,13 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 global.owner = ['62895395165760']
-global.mods = []
+global.mods = ['6281334813599']
 
 global.APIs = {
-  amel: 'https://api.zeks.me',
+  amel: 'https://melcanz.com',
 }
 global.APIKeys = {
-  'https://api.zeks.me': 'SADLAREZZEEY',
+  'https://melcanz.net': 'gqZyhhs7',
 }
 
 global.packname = 'ig Zeey'

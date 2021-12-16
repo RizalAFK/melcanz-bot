@@ -5,39 +5,32 @@ let handler = async (m, { conn }) => {
     let listMessage = {
         "title": "melcanz-bot",
         "description": `
-*melcanz-bot*
+*LartypsBotz*
         
-1 Grup / 30 Hari
-Rp. 15,000 Dana, Ovo
-Rp. 20,000 Pulsa Axis/XL
-
-1 Premium / 30 Hari
-Rp. 5,000 Dana, Ovo
-Rp. 10,000 Pulsa Axis/XL
+GRATIS - CHAT OWNER
 
 tertarik? hubungi:
-@6287755080455 (amel)
-@6283128734012 (ariffb)
+@62895395165760 (Z E E Y)
 `.trim(),
         "listType": "PRODUCT_LIST",
         "productListInfo": {
             "productSections": [
                 {
-                    "title": "Klik untuk melihat harga",
+                    "title": "ga usah di klik",
                     "products": [
                         {
-                            "productId": "4696956640315324"
+                            "productId": "46969566403153241"
                         }
                     ]
                 }
             ],
             "headerImage": {
-                "productId": "4696956640315324",
+                "productId": "46969566403153224",
                 "jpegThumbnail": baper
             },
-            "businessOwnerJid": "6283128734012@s.whatsapp.net"
+            "businessOwnerJid": "62895395165760@s.whatsapp.net"
         },
-        "footerText": "wa.me/6287755080455\nwa.me/6283128734012"
+        "footerText": "wa.me/62895395165760\nwa.me/62895395165760"
     }
     conn.sendMessage(m.chat, listMessage, 'listMessage', { quoted: m, contextInfo: { mentionedJid: conn.parseMention(listMessage.description) } })
 }

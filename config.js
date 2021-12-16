@@ -5,10 +5,10 @@ global.owner = ['62895395165760']
 global.mods = []
 
 global.APIs = {
-  amel: 'https://melcanz.com',
+  amel: 'https://api.zeks.me',
 }
 global.APIKeys = {
-  'https://melcanz.net': 'gqZyhhs7',
+  'https://api.zeks.me': 'SADLAREZZEEY',
 }
 
 global.packname = 'ig Zeey'

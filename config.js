@@ -5,10 +5,10 @@ global.owner = ['62895395165760']
 global.mods = ['6281334813599']
 
 global.APIs = {
-  amel: 'https://melcanz.net',
+  amel: 'https://api.lolhuman.xyz',
 }
 global.APIKeys = {
-  'https://melcanz.net': 'ZmpefXgi',
+  'https://api.lolhuman.xyz': '3caa19370f0ef53d19130e93',
 }
 
 global.packname = 'ig zeey_tod'

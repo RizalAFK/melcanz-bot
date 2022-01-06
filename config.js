@@ -5,10 +5,10 @@ global.owner = ['62895395165760']
 global.mods = ['6281334813599']
 
 global.APIs = {
-  amel: 'https://api.lolhuman.xyz',
+  amel: 'https://api-alphabot.herokuapp.com',
 }
 global.APIKeys = {
-  'https://api.lolhuman.xyz': '3caa19370f0ef53d19130e93',
+  'https://api-alphabot.herokuapp.com': 'Alphabot',
 }
 
 global.packname = 'ig zeey_tod'
